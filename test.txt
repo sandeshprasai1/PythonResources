@@ -21,6 +21,8 @@ right_frame.grid(row=0, column=1, sticky="nsew")
 tk.Label(left_frame, text="1/8 Part", bg="orange").pack(padx=10, pady=10)
 tk.Label(right_frame, text="7/8 Part", bg="lightblue").pack(padx=10, pady=10)
 
+asldfjalksdfjaklsjdfjalkdfjalkdjfa
+
 # Make row expandable
 root.rowconfigure(0, weight=1)
 
