@@ -1,6 +1,6 @@
-function addNumbers(num1, num2) {
+function addN(num1, num2) {
   return num1 + num2;
 }
 
-let sum = addNumbers(5, 10);
+let sum = addN(4, 10);
 console.log("Sum:", sum); // Output: Sum: 15
