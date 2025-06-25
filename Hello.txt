@@ -1,6 +1,6 @@
-A=input("enter the numbers")
+A=input("enter numbers")
 A=int(A)
-B=input("enter the numbers")
+B=input("enter numbers")
 B=int(B)
 sum=A+B
 print(sum)
