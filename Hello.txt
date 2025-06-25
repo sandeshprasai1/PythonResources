@@ -1,5 +1,8 @@
+A=input("enter numbers")
 A=input("enter the first value")
+line
 A=int(A)
+B=input("enter numbers")
 B=input("enter the second value")
 B=int(B)
 sum=A+B
